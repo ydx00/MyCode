@@ -1,0 +1,4 @@
+"D:\ProgramData\JetBrains\CLion 2017.2\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\ProgramData\workspace\leetcode\Array
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/ProgramData/workspace/leetcode/Array/cmake-build-debug
